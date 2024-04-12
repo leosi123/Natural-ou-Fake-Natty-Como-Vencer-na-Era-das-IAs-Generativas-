@@ -3,7 +3,7 @@ Desafio DIO - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!
 # IA - Substituto de entrevistas (Pitch)
 
 ## 📒 Descrição
-Este vídeo de aproximadamente 1 minuto tem intenção de mostrar o potencial de uma IA além de mosrtar que ao se compbinar várias IA's podemos ter um resultado surpreendente
+Este vídeo de aproximadamente 1 minuto tem intenção de mostrar o potencial de uma IA além de mostrar que ao se combinar várias IA's podemos ter um resultado surpreendente
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT para geração de texto e D-ID para criação de texto e conversão de text-to-speech.
