@@ -15,7 +15,7 @@ Com isso o resultado dado ainda tinha algumas lacunas a serem preechidas, como p
 Em seguida foi utilizado o D-ID para inserir os dados obtidos do chatgpt e em seguida pedido para gerar um video com um avatar com o idioma em portugues.
 
 ## 🚀 Resultados
-O vídeo é uma prova que para apresentações iniciais é uma boa aplicação. Segue o link do video.
+O vídeo é uma prova que para apresentações iniciais é uma boa aplicação. O Video se encontra na raiz deste repositório.
 
 ## 💭 Reflexão (Opcional)
 Na verdade, como hoje ainda não existe regulamentação sobre IA, creio que devemos ser muito responsáveis em como utilizamos estas ferramentas. Visto que ela pode ter influências fortíssimas princpalmente quando se tratam de deepfakes. O mau uso da ferramenta pode gerar desinformação, principalmente em momentos críticos como os de eleições, por exemplo.
